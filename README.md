@@ -10,12 +10,16 @@ Date: 2026
 
 ## Overview
 
-This project analyzes the Seaborn Car Crash dataset to examine the relationship between alcohol involvement and total fatal crash rates across U.S. states.
-
 ---
 
 ## Tools
-
+jupyterlab
+numpy
+pandas
+pyarrow
+matplotlib
+seaborn
+scipy
 
 
 ---
