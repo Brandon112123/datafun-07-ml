@@ -22,5 +22,5 @@ dependencies = [
     "seaborn",
     "spacy",
     "textatistic",
-    "textblob"
+    "textblob",
 ]
