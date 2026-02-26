@@ -19,22 +19,12 @@ The project uses two historical temperature datasets (1895–2018) to analyze lo
 
 ---
 
-## Datasets
+## Dataset
 
-This project uses the following datasets:
+This project uses the following dataset:
 
-### 1. NYC Average January High Temperatures  
+### NYC Average January High Temperatures  
 File: `ave_hi_nyc_jan_1895-2018.csv`
-
-Columns:
-- `Date` (Year)
-- `Value` (Average January high temperature in Fahrenheit)
-- `Anomaly` (Deviation from long-term average)
-
----
-
-### 2. LA Average January High Temperatures  
-File: `ave_hi_la_jan_1895-2018.csv`
 
 Columns:
 - `Date` (Year)
