@@ -1,7 +1,7 @@
 [project]
 name = "datafun-07-ml"
 version = "0.1.0"
-description = "Add your description here"
+description = "This project applies simple linear regression to historical January temperature data (1895–2018) to model long-term trends and generate predictions using both SciPy and scikit-learn."
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
